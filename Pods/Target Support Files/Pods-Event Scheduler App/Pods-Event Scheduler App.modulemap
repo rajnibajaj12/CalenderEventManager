@@ -1,6 +1,0 @@
-framework module Pods_Event_Scheduler_App {
-  umbrella header "Pods-Event Scheduler App-umbrella.h"
-
-  export *
-  module * { export * }
-}
