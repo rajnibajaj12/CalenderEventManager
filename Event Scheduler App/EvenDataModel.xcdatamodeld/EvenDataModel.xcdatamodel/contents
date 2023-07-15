@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="21754" systemVersion="22D68" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="CategoryModel" representedClassName="CategoryModel" syncable="YES" codeGenerationType="class">
+        <attribute name="categoryColor" optional="YES" attributeType="String"/>
+        <attribute name="categoryIcon" optional="YES" attributeType="Binary"/>
+        <attribute name="categoryID" optional="YES" attributeType="String"/>
+        <attribute name="categoryName" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="EventDataModel" representedClassName="EventDataModel" syncable="YES" codeGenerationType="class">
+        <attribute name="categoryID" optional="YES" attributeType="String"/>
+        <attribute name="eventCategory" optional="YES" attributeType="String"/>
+        <attribute name="eventCatIcon" optional="YES" attributeType="Binary"/>
+        <attribute name="eventColor" optional="YES" attributeType="String"/>
+        <attribute name="eventDate" optional="YES" attributeType="String"/>
+        <attribute name="eventDescription" optional="YES" attributeType="String"/>
+        <attribute name="eventID" optional="YES" attributeType="String"/>
+        <attribute name="eventLocation" optional="YES" attributeType="String"/>
+        <attribute name="eventName" optional="YES" attributeType="String"/>
+        <attribute name="isReminder" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="reminderTime" optional="YES" attributeType="String"/>
+    </entity>
+</model>

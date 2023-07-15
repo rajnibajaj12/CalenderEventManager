@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Event Scheduler App/EventDataModel+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Event Scheduler App/EventDataModel+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Event Scheduler App/CategoryModel+CoreDataClass.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Event Scheduler App/CategoryModel+CoreDataProperties.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Event Scheduler App.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
