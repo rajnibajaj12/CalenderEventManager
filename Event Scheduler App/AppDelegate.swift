@@ -8,7 +8,6 @@
 import UIKit
 import CoreData
 import IQKeyboardManager
-import FirebaseCore
 let userDefault = UserDefaults.standard
 @main
 
@@ -20,7 +19,6 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         IQKeyboardManager.shared().isEnabled = true
         IQKeyboardManager.shared().shouldResignOnTouchOutside = true
-        FirebaseApp.configure()
         return true
     }
 

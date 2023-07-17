@@ -7,7 +7,6 @@ target 'Event Scheduler App' do
    pod 'FSCalendar'
    pod 'DropDown'
    pod 'IQKeyboardManager'
-   pod 'FirebaseFirestore'
   # Pods for Event Scheduler App
 
 end

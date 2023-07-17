@@ -17,7 +17,6 @@
 		C6C30D862A615E0100C6B7C8 /* MenuHelperViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C30D852A615E0100C6B7C8 /* MenuHelperViewController.swift */; };
 		C6C30D882A615E4B00C6B7C8 /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C30D872A615E4B00C6B7C8 /* SideMenuViewController.swift */; };
 		C6C30D8A2A616C2F00C6B7C8 /* AllCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6C30D892A616C2F00C6B7C8 /* AllCategoryViewController.swift */; };
-		C6D55DD92A61196F00CE973D /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = C6D55DD82A61196F00CE973D /* GoogleService-Info.plist */; };
 		C6DFDFC42A5947DA00BFF54D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DFDFC32A5947DA00BFF54D /* AppDelegate.swift */; };
 		C6DFDFC62A5947DA00BFF54D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DFDFC52A5947DA00BFF54D /* SceneDelegate.swift */; };
 		C6DFDFC82A5947DA00BFF54D /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6DFDFC72A5947DA00BFF54D /* ViewController.swift */; };
@@ -49,7 +48,6 @@
 		C6C30D852A615E0100C6B7C8 /* MenuHelperViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuHelperViewController.swift; sourceTree = "<group>"; };
 		C6C30D872A615E4B00C6B7C8 /* SideMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
 		C6C30D892A616C2F00C6B7C8 /* AllCategoryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllCategoryViewController.swift; sourceTree = "<group>"; };
-		C6D55DD82A61196F00CE973D /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		C6DFDFC02A5947DA00BFF54D /* Event Scheduler App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Event Scheduler App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6DFDFC32A5947DA00BFF54D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C6DFDFC52A5947DA00BFF54D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -151,7 +149,6 @@
 				C6DFDFCC2A5947DB00BFF54D /* Assets.xcassets */,
 				C6DFDFCE2A5947DB00BFF54D /* LaunchScreen.storyboard */,
 				C6DFDFD12A5947DB00BFF54D /* Info.plist */,
-				C6D55DD82A61196F00CE973D /* GoogleService-Info.plist */,
 			);
 			path = "Event Scheduler App";
 			sourceTree = "<group>";
@@ -227,7 +224,6 @@
 				C6DFDFD02A5947DB00BFF54D /* LaunchScreen.storyboard in Resources */,
 				C6DFDFCD2A5947DB00BFF54D /* Assets.xcassets in Resources */,
 				C6DFDFCB2A5947DA00BFF54D /* Main.storyboard in Resources */,
-				C6D55DD92A61196F00CE973D /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

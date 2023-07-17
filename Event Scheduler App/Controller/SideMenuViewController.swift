@@ -75,8 +75,6 @@ class SideMenuViewController:  UIViewController, UITableViewDelegate, UITableVie
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return UITableView.automaticDimension
     }
-    
-
 }
 class SideMenuCell:UITableViewCell {
     
